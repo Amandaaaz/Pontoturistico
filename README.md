@@ -4,5 +4,7 @@
 
 Exercício de html e css do curso de front-end para criar uma página simples de um ponto turístico da sua cidade.
 
-#Link do projeto
+# Link do projeto:
+
+https://amandaaaz.github.io/Pontoturistico/
 
